@@ -1,0 +1,13 @@
+psutil
+customtkinter
+pillow
+screeninfo
+wmi ; platform_system=="Windows"
+pywin32 ; platform_system=="Windows"
+google-genai
+python-dotenv
+google-api-core
+Pyrebase4
+
+
+

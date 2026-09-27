@@ -1,0 +1,25 @@
+# Secrets — never commit these
+.env
+config.ini
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Databases
+*.db
+
+# Logs
+logs/
+reports/
+
+# IDE
+.vscode/
+.idea/
+*.egg-info/
