@@ -101,7 +101,7 @@ TechGuardAI/
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/TechGuardAI.git
+git clone https://github.com/MUHAMMAD-Tayyab-Iftikhar/TechGuardAI.git
 cd TechGuardAI
 ```
 
